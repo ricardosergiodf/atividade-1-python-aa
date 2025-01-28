@@ -1,0 +1,9 @@
+(28/01/2025 16:52:05) - INFO - Iniciando a Atividade 1 - Python & Automation Anywhere
+(28/01/2025 16:52:05) - INFO - Maestro desativado -> Executando localmente
+(28/01/2025 16:52:27) - INFO - Inicio - login_aa_community function
+(28/01/2025 16:52:27) - INFO - Login necessario no Automation Anywhere Community
+(28/01/2025 16:52:33) - INFO - Inicio - login function
+(28/01/2025 16:52:33) - INFO - 1a tentativa de login.
+(28/01/2025 16:52:34) - INFO - Login feito com sucesso. Tempo de execucao: 0.00 seconds, Precisao: 100%.
+(28/01/2025 16:52:34) - INFO - Resultado da tentativa 1: Login feito com sucesso
+(28/01/2025 16:52:34) - INFO - Fim.

@@ -1,0 +1,19 @@
+(28/01/2025 16:54:29) - INFO - Iniciando a Atividade 1 - Python & Automation Anywhere
+(28/01/2025 16:54:29) - INFO - Maestro desativado -> Executando localmente
+(28/01/2025 16:54:35) - INFO - Inicio - login function
+(28/01/2025 16:54:35) - INFO - 1a tentativa de login.
+(28/01/2025 16:54:36) - ERROR - Erro ao tentar realizar o login. Username: User@automationanywhere.com, Password: Automation123
+(28/01/2025 16:54:36) - INFO - Resultado da tentativa 1: Login falhou
+(28/01/2025 16:54:36) - INFO - Elemento de erro do login capturado.
+(28/01/2025 16:54:36) - INFO - Inicio - login function
+(28/01/2025 16:54:36) - INFO - 2a tentativa de login.
+(28/01/2025 16:54:37) - ERROR - Erro ao tentar realizar o login. Username: User@automationanywhere.com, Password: Automation123
+(28/01/2025 16:54:37) - INFO - Resultado da tentativa 2: Login falhou
+(28/01/2025 16:54:37) - INFO - Elemento de erro do login capturado.
+(28/01/2025 16:54:37) - INFO - Inicio - login function
+(28/01/2025 16:54:37) - INFO - 3a tentativa de login.
+(28/01/2025 16:54:38) - ERROR - Erro ao tentar realizar o login. Username: User@automationanywhere.com, Password: Automation123
+(28/01/2025 16:54:38) - INFO - Resultado da tentativa 3: Login falhou
+(28/01/2025 16:54:38) - INFO - Elemento de erro do login capturado.
+(28/01/2025 16:54:38) - WARNING - Todas as tentativas de login falharam.
+(28/01/2025 16:54:40) - INFO - Fim.
